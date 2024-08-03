@@ -1,4 +1,4 @@
-FROM dustynv/llama_cpp:r36.2.0
+FROM pytorch/pytorch:2.3.1-cuda11.8-cudnn8-runtime
 
 LABEL authors="spousty"
 

@@ -1,5 +1,5 @@
 fastapi>=0.111.0,<0.112.0
 pydantic
-nomic
-gpt4all
 uvicorn
+InstructorEmbedding
+sentence-transformers==2.2.2
